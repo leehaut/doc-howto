@@ -1,2 +1,2 @@
 # doc-howto
- Java upgrade document.
+ Java upgrade document
